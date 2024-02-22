@@ -1,11 +1,11 @@
 <h1 align="center">Oi 👋, eu sou o Fillipe</h1>
 <h3 align="center">Apaixonado por ciência e análise de dados no mundo digital</h3>
 
-- 🌱 Atualmente estou me especializando em ** linguagem SQL, SQLserver, MySQL**
+- 🌱 Atualmente estou me especializando em **linguagem SQL, SQLserver, MySQL**
 
 - 👯 No momento sou monitor **curso de Administrador de dados (DBA) no Senac**
 
-- 💬 Pergunte-me sobre linguagem SQL ou os MySQL da SBDG e SQLserver **linguagem SQL ou os MySQL da SBDG e SQLserver**
+- 💬 Pergunte-me sobre **linguagem SQL ou os MySQL da SBDG e SQLserver**
 
 - 📫 Você me acha através do e-mail **fillipe-m1@hotmail.com**
 
