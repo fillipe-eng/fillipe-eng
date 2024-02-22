@@ -1,4 +1,11 @@
-### Hi there 👋
+# Olá!! 👋 Seja bem vindo ao meu perfil do Github!!
+## Me chamo Fillipe e pode me chamar pelo meu nome mesmo!
+
+* 🌱 Atualmente estou me especializando em linguagem SQL;
+* 👯 No momento sou monitor no curso de Administrador de dados (DBA) no Senac;
+* 💬 Pergunte-me sobre linguagem SQL ou os SBDG's MySQL e SQLserver;
+* 📫 Você me acha através do e-mail fillipe-m1@hotmail.com;
+* ⚡ Comecei estudando o desenvolvimento em front-end, porém migrei para o banco de dados.
 
 <!--
 **fillipe-eng/fillipe-eng** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
